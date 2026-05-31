@@ -56,12 +56,6 @@ Our key development goals include:
 *   **☁️ Cloud Dashboard for Researchers:** Create a web platform for the lab/greenhouse market, allowing them to manage and analyze data from a fleet of PodPals in real-time.
 *   **🌱 Community-Sourced Growth Plans:** Allow users to share and download proven AI-generated growth plans for different types of plants.
 
-## Acknowledgments
-
-*   A huge thank you to **[MihirangaDissanayake](https://github.com/MihirangaDissanayake)** for developing and providing the complete Arduino firmware for the sensor hub.
-*   Special thanks to Gayan Kaushalya and Oshadhi Rathnayake for their valuable assistance.
-*   This project was built using Flutter, Google Gemini, and Arduino.
-
 ## License
 
 The documentation and media in this repository are distributed under the MIT License. See `LICENSE` for more information.
